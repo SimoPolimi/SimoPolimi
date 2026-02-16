@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Simone</h1>
-<h3 align="center">Computer Science student interested in backend systems, mobile development and data technologies..</h3>
+<h3 align="center">Computer Science student interested in backend systems, frontend & mobile development and data technologies.</h3>
 
 ---
 
